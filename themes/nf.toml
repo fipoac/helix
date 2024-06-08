@@ -1,0 +1,4 @@
+inherits = "ayu_evolve"
+"ui.background" = { fg = "foreground" }
+"ui.linenr" = { fg = "light-gray" }
+"ui.linenr.selected" = { fg = "yellow",  modifiers = ["bold"] }
